@@ -1,3 +1,3 @@
-console.log("****************");
-console.log("Soy el fichero b");
-console.log("****************");
+console.log("________________");
+console.log("Soy el segundo fichero");
+console.log("________________");
